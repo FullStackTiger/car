@@ -1,0 +1,56 @@
+.delete-car__modal {
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background-color: white;
+  padding: 32px;
+  border: 1px solid #d4d9dc;
+  border-radius: 8px;
+
+  .delete-car__title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    font-size: 24px;
+    font-weight: 600;
+
+    button {
+      cursor: pointer;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      border: none;
+      color: #5a5f7d;
+    }
+  }
+
+  .delete-car__description {
+    margin-top: 32px;
+    min-width: 420px;
+    margin-bottom: 32px;
+  }
+}
+
+.delete-car__overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media only screen and (max-width: 600px) {
+  .delete-car__modal {
+    padding-left: 24px;
+    padding-right: 24px;
+
+    .delete-car__description {
+      min-width: calc(100vw - 120px);
+    }
+  }
+}

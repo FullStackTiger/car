@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "car_name": "Oldsmobile",
+    "modal_name": "Alero",
+    "modal_year": 2015,
+    "image_url": "https://carsalesbase.com/wp-content/uploads/2015/11/Oldsmobile.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1234567",
+    "status": false
+  },
+  {
+    "id": 2,
+    "car_name": "Mercedes-Benz",
+    "modal_name": "E-Class",
+    "modal_year": 2021,
+    "image_url": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "12345",
+    "status": false
+  },
+  {
+    "id": 3,
+    "car_name": "GMC",
+    "modal_name": "Yukon",
+    "modal_year": 2019,
+    "image_url": "https://media.gmc.com/content/Pages/news/us/en/2018/jun/0611-yukon-graphite/_jcr_content/top_parsys/image.img.jpg/1529502003329.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1211",
+    "status": false
+  },
+  {
+    "id": 4,
+    "car_name": "GMC",
+    "modal_name": "1500 Regular Cab",
+    "modal_year": 2018,
+    "image_url": "https://www.ccarprice.com/products/GMC-Yukon-XL-AT4-2021.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1234567",
+    "status": false
+  },
+  {
+    "id": 5,
+    "car_name": "Ford",
+    "modal_name": "Fiesta",
+    "modal_year": 2018,
+    "image_url": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1234567",
+    "status": false
+  },
+  {
+    "id": 6,
+    "car_name": "Dodge",
+    "modal_name": "Ram 1500 Regular Cab",
+    "modal_year": 2019,
+    "image_url": "https://www.ccarprice.com/products/GMC-Yukon-XL-AT4-2021.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "12347",
+    "status": false
+  },
+  {
+    "id": 7,
+    "car_name": "Chevrolet",
+    "modal_name": "Cobalt",
+    "modal_year": 2020,
+    "image_url": "https://www.ccarprice.com/products/GMC-Yukon-XL-AT4-2021.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1299567",
+    "status": false
+  },
+  {
+    "id": 8,
+    "car_name": "Tesla",
+    "modal_name": "Model X",
+    "modal_year": 2022,
+    "image_url": "https://www.ccarprice.com/products/GMC-Yukon-XL-AT4-2021.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1234567",
+    "status": false
+  },
+  {
+    "id": 9,
+    "car_name": "Saturn",
+    "modal_name": "Ion",
+    "modal_year": 2013,
+    "image_url": "https://www.ccarprice.com/products/GMC-Yukon-XL-AT4-2021.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "1230567",
+    "status": false
+  },
+  {
+    "id": 10,
+    "car_name": "Hyundai",
+    "modal_name": "Tucson",
+    "modal_year": 2016,
+    "image_url": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg",
+    "price": 20000,
+    "mileage": 1000,
+    "stock_number": "123497",
+    "status": false
+  }
+]
